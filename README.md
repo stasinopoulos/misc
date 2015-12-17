@@ -1,2 +1,2 @@
 # misc
-Miscellaneous scripts.
+Miscellaneous tools & scripts.
